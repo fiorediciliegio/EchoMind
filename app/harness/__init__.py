@@ -1,0 +1,2 @@
+"""EchoMind engineering harness package."""
+
